@@ -19,12 +19,12 @@ TV: 1200px pra cima
     }
 
     section#login {
-        height: 250px;
+        height: 200px;
         width: 70vw;
     }
     section#login > div#imagem {
         float: left;
-        width: 40%;
+        width: 30%;
         height: 100%;
         background-position: center;
     }
